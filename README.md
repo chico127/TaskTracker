@@ -3,6 +3,8 @@
 A lightweight command-line task manager written in Python.  
 It stores tasks in a simple **JSON file** (`tasks.json`) — no database required.
 
+https://github.com/chico127/TaskTracker
+
 ---
 
 ## 🚀 Features
@@ -146,10 +148,5 @@ Tasks are stored in a human-readable JSON file:
 
 ## 🧩 License
 
-This project is open-source and free to use under the **MIT License**.
+This project is open-source.
 
----
-
-## ❤️ Credits
-
-Created by **[Your Name]** — a simple, portable task manager built with pure Python.
